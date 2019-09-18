@@ -1,0 +1,20 @@
+body {
+  background-color: lavender;
+  letter-spacing: 0.5px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1, h2, h3, p, li {
+  color: navy;
+}
+
+.tittle {
+  color: #FF5833
+}
+h2, h3 {
+text-align: center;
+}
+
+h4 {
+  text-align: center;
+}
